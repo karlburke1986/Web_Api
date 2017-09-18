@@ -1,0 +1,237 @@
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\csc.exe
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\System.Collections.Immutable.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\vbc.exe
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\VBCSCompiler.exe
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\roslyn\VBCSCompiler.exe.config
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Task3.dll.config
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Task3.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Task3.pdb
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Antlr3.Runtime.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\EntityFramework.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\EntityFramework.SqlServer.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Google.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Web.Infrastructure.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Newtonsoft.Json.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Owin.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Net.Http.Formatting.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Helpers.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.Owin.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.WebHost.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Mvc.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Optimization.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Razor.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.Deployment.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.Razor.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\WebGrease.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Newtonsoft.Json.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Net.Http.Formatting.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Helpers.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.WebHost.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Mvc.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Optimization.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Razor.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.Deployment.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.WebPages.Razor.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Antlr3.Runtime.pdb
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\EntityFramework.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\EntityFramework.SqlServer.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Google.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\bin\System.Web.Http.Owin.xml
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\obj\Debug\Task3.dll
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\obj\Debug\Task3.pdb
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\obj\Debug\Task3.Migrations.InitialCreate.resources
+E:\Semester_7\Enterprise Application Dev 1\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\csc.exe
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\System.Collections.Immutable.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\vbc.exe
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\VBCSCompiler.exe
+D:\Semester_8\EAD2\Task3\Task3\bin\roslyn\VBCSCompiler.exe.config
+D:\Semester_8\EAD2\Task3\Task3\bin\Task3.dll.config
+D:\Semester_8\EAD2\Task3\Task3\bin\Task3.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Task3.pdb
+D:\Semester_8\EAD2\Task3\Task3\bin\Antlr3.Runtime.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.SqlServer.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Google.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Web.Infrastructure.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Newtonsoft.Json.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Owin.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Net.Http.Formatting.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Helpers.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.Owin.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.WebHost.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Mvc.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Optimization.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Razor.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Deployment.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Razor.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\WebGrease.dll
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Newtonsoft.Json.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Net.Http.Formatting.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Helpers.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.WebHost.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Mvc.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Optimization.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Razor.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Deployment.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Razor.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Antlr3.Runtime.pdb
+D:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.SqlServer.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Google.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.Owin.xml
+D:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.Migrations.InitialCreate.resources
+D:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+D:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.dll
+D:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.pdb
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\csc.exe
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\System.Collections.Immutable.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\vbc.exe
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\VBCSCompiler.exe
+E:\Semester_8\EAD2\Task3\Task3\bin\roslyn\VBCSCompiler.exe.config
+E:\Semester_8\EAD2\Task3\Task3\bin\Task3.dll.config
+E:\Semester_8\EAD2\Task3\Task3\bin\Task3.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Task3.pdb
+E:\Semester_8\EAD2\Task3\Task3\bin\Antlr3.Runtime.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.SqlServer.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Google.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Web.Infrastructure.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Newtonsoft.Json.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Owin.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Net.Http.Formatting.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Helpers.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.Owin.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.WebHost.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Mvc.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Optimization.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Razor.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Deployment.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Razor.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\WebGrease.dll
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Newtonsoft.Json.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Net.Http.Formatting.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Helpers.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.WebHost.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Mvc.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Optimization.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Razor.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Deployment.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.WebPages.Razor.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Antlr3.Runtime.pdb
+E:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\EntityFramework.SqlServer.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Google.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Semester_8\EAD2\Task3\Task3\bin\System.Web.Http.Owin.xml
+E:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+E:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.Migrations.InitialCreate.resources
+E:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.Cache
+E:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.dll
+E:\Semester_8\EAD2\Task3\Task3\obj\Debug\Task3.pdb

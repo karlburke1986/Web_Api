@@ -1,0 +1,13 @@
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\WebExerciseApi1Client.exe.config
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\WebExerciseApi1Client.exe
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\WebExerciseApi1Client.pdb
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\Newtonsoft.Json.dll
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\System.Net.Http.Formatting.dll
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\Newtonsoft.Json.xml
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\System.Net.Http.Formatting.xml
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\obj\Debug\WebExerciseApi1Client.csprojResolveAssemblyReference.cache
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\obj\Debug\WebExerciseApi1Client.exe
+E:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\obj\Debug\WebExerciseApi1Client.pdb
+D:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\bin\Debug\WebExerciseApi1Client.exe.config
+D:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\obj\Debug\WebExerciseApi1Client.exe
+D:\Semester_8\EAD2\WebExerciseApi1Client\WebExerciseApi1Client\obj\Debug\WebExerciseApi1Client.pdb
